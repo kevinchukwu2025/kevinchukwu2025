@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Kevin
 
-<!--
-**kevinchukwu2025/kevinchukwu2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer who builds clean, fast, and modern web applications.
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Backend: Node.js, Express, Python
+- DBs: PostgreSQL, MongoDB
+- Tools: Docker, Git, Supabase, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Projects:
+- 🚀 [TradeBot](https://github.com/yourusername/tradebot): Automated crypto trading bot with Telegram alerts.
+- 🎨 [Portfolio Site](https://a66addon.com): My personal portfolio using Framer Motion + Tailwind.
+- 📚 [EduCMS](https://github.com/yourusername/educms): An e-library for selling and buying of course
+
+🌍 Currently open to remote opportunities.  
+📫 Reach me at: `yourname@email.com` or [LinkedIn](https://linkedin.com/in/yourname)
